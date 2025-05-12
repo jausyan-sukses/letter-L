@@ -1,0 +1,2 @@
+Invoking command in '/home/el-system/teleop_launch/build/drone_teleop': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/el-system/teleop_launch/src/drone_teleop -DCMAKE_INSTALL_PREFIX=/home/el-system/teleop_launch/install/drone_teleop
+Invoked command in '/home/el-system/teleop_launch/build/drone_teleop' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/el-system/teleop_launch/src/drone_teleop -DCMAKE_INSTALL_PREFIX=/home/el-system/teleop_launch/install/drone_teleop
