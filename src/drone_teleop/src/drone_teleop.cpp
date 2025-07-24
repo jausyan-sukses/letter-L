@@ -155,35 +155,35 @@ private:
             switch (key)
             {
             case 'd':
-                msg.linear.x = 0.1;  // Maju
+                msg.linear.x = 0.5;  // Maju
                 break;
             case 'a':
-                msg.linear.x = -0.1; // Mundur
+                msg.linear.x = -0.5; // Mundur
                 break;
             case 'w':
-                msg.linear.y = 0.1;  // Geser kiri
+                msg.linear.y = 0.5;  // Geser kiri
                 break;
             case 's':
-                msg.linear.y = -0.1; // Geser kanan
+                msg.linear.y = -0.5; // Geser kanan
                 break;
             case 'q':
-                msg.angular.z = 0.1; // Rotasi kiri
+                msg.angular.z = 0.5; // Rotasi kiri
                 break;
             case 'e':
-                msg.angular.z = -0.1; // Rotasi kanan
+                msg.angular.z = -0.5; // Rotasi kanan
                 break;
             case 'r':
-                msg.linear.z = 0.1;  // Naik
+                msg.linear.z = 0.5;  // Naik
                 break;
             case 'f':
-                msg.linear.z = -0.1; // Turun
+                msg.linear.z = -0.5; // Turun
                 break;
             case 'm':
                 setModeGuided(); // Set mode GUIDED
                 break;
             case 't':
                 armDrone();
-                rclcpp::sleep_for(std::chrono::seconds(3)); // Tunggu supaya benar-benar armed
+                rclcpp::sleep_for(std::chrono::seconds(1)); // Tunggu supaya benar-benar armed
                 takeoffDrone(); // Arming dan langsung takeoff
                 break;
             case 'l':
