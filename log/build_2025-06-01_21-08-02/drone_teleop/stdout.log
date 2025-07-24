@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target drone_teleop[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/drone_teleop.dir/src/drone_teleop.cpp.o[0m
+[100%] [32m[1mLinking CXX executable drone_teleop[0m
+[100%] Built target drone_teleop
+-- Install configuration: ""
+-- Installing: /home/el-system/teleop_launch/install/drone_teleop/lib/drone_teleop/drone_teleop
+-- Set runtime path of "/home/el-system/teleop_launch/install/drone_teleop/lib/drone_teleop/drone_teleop" to ""
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/ament_index/resource_index/package_run_dependencies/drone_teleop
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/ament_index/resource_index/parent_prefix_path/drone_teleop
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/environment/ament_prefix_path.sh
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/environment/path.sh
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/environment/path.dsv
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/local_setup.bash
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/local_setup.sh
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/local_setup.zsh
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/local_setup.dsv
+-- Installing: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/package.dsv
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/ament_index/resource_index/packages/drone_teleop
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/cmake/drone_teleopConfig.cmake
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/cmake/drone_teleopConfig-version.cmake
+-- Up-to-date: /home/el-system/teleop_launch/install/drone_teleop/share/drone_teleop/package.xml

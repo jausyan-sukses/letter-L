@@ -154,16 +154,16 @@ private:
 
             switch (key)
             {
-            case 'w':
+            case 'd':
                 msg.linear.x = 0.1;  // Maju
                 break;
-            case 's':
+            case 'a':
                 msg.linear.x = -0.1; // Mundur
                 break;
-            case 'a':
+            case 'w':
                 msg.linear.y = 0.1;  // Geser kiri
                 break;
-            case 'd':
+            case 's':
                 msg.linear.y = -0.1; // Geser kanan
                 break;
             case 'q':
